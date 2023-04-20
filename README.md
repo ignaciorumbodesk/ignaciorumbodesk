@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ignaciorumbodesk
+- 👋 Hi, I’m @ignaciorumbo
 - 👀 I’m interested in front end web development
 - 🌱 I’m currently learning javascript an his wireframes
 
